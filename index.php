@@ -1,1 +1,1 @@
-<?php echo "belajar php"; ?>
+<?php echo "belajar git"; ?>
